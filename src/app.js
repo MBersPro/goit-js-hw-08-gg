@@ -15,9 +15,9 @@ const galleryItems = [
   },
   {
     preview:
-    'images/mini_itachi.jpg',
+    'images/mini_itachi.png',
     original:
-    'images/big_itachi.jpg',
+    'images/big_itachi.png',
     description: 'itachi',
   },
   {
